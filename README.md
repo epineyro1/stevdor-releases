@@ -1,3 +1,3 @@
-# Krate
+# Stevdor
 
-Instaladores de Krate. Bajá el último Krate-Setup en Releases.
+Instaladores de Stevdor. Bajá el último Stevdor-Setup en Releases.
